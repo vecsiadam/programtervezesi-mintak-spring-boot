@@ -76,5 +76,6 @@ buildNumber.properties
 *.classpath
 *.mvn
 *.project
-*mvnw.cmd
+*mvnw*
 *.class
+/bin
